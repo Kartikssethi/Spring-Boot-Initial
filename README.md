@@ -39,3 +39,7 @@ Java 17
 ### Project Structure
 
 ⚠️ **Make sure the `resources` folder exists** - Creating it manually doesn't work properly. The `src/main/resources` and `src/test/resources` directories must be set up correctly in the Maven project structure from the start.
+
+### iCloud Sync
+
+⚠️ **Do NOT sync this project with iCloud** - It will glitch out and cause file conflicts and synchronization issues. Keep the project on local storage only.
